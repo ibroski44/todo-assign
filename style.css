@@ -1,0 +1,12 @@
+body {
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(#8d5252, #DC28);
+    font-family: 'Times New Roman', Times, serif;
+}
+button:hover {
+    cursor: pointer;
+    background-color: aqua;
+}
